@@ -5,4 +5,4 @@ answer = st.radio("Харесваш ли Python?",("да", "не"))
 if answer == "да":
  st.write("Супер! ")
 else:
-st.write("Няма проблем, ще го харесаш ")
+ st.write("Няма проблем, ще го харесаш ")
